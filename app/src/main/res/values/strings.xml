@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta de presentacion</string>
+    <string name="card_name">Nicolás Cristaldo</string>
+    <string name="card_description">Android Developer</string>
+    <string name="email">crist4545@gmail.com</string>
+    <string name="phone_number">+54 9 11 58095162</string>
+    <string name="share">\@nicolasCristaldo</string>
+</resources>
